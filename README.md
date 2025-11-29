@@ -44,4 +44,4 @@ El análisis se basa en datos de campañas de marketing directo (llamadas telef�
 
     Variable Objetivo: y (Indica si el cliente suscribió un depósito a plazo fijo).
 
-
+[Ver Proyecto](https://github.com/DataAnalystSergio/Bank-marketing-prediction-ml/blob/5107990b9cd006f4e805b7918f024a21ad65d063/TP1/EJERCICIO_CLASIFICACION.ipynb)
